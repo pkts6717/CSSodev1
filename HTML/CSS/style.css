@@ -1,0 +1,31 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #F2D7D9;
+}
+
+h1 {
+    color: rgba(233, 2, 2, 0.925);
+}
+
+#Ustkisim {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    margin-right: 5px;
+
+}
